@@ -1,0 +1,5 @@
+UP;2
+RIGHT;7
+LEFT;8.56
+UP;12.5
+END
